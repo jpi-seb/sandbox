@@ -1,0 +1,14 @@
+*.pyc
+.*.swp
+*.classpath
+*.project
+*.settings
+target/
+.idea/
+*.iml
+*.log
+*.data
+*.redo
+nodes/
+log/
+semantic-tools/dependency-reduced-pom.xml
